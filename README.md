@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
