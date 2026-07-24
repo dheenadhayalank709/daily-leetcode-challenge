@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0125-valid-palindrome) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
