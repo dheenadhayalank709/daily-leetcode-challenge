@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
