@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1323-maximum-69-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
