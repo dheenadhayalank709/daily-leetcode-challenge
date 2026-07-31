@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1189-maximum-number-of-balloons) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
