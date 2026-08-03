@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/2574-left-and-right-sum-differences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1323-maximum-69-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1323-maximum-69-number) |
 ## Counting
 |  |
@@ -148,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
