@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
