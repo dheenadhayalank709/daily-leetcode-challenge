@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1137-n-th-tribonacci-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
