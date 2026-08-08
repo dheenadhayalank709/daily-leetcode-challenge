@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0905-sort-array-by-parity) |
@@ -198,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
