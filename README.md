@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
@@ -203,8 +204,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
