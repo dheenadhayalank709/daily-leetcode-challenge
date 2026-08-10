@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1122-relative-sort-array) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
