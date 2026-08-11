@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0504-base-7) |
 | [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1137-n-th-tribonacci-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
