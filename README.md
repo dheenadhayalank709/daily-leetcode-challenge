@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0392-is-subsequence) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
