@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0504-base-7) |
 | [0650-2-keys-keyboard](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -261,4 +262,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
