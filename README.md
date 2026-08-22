@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
+| [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0190-reverse-bits) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
