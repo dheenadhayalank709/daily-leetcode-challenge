@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0392-is-subsequence) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0342-power-of-four/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
