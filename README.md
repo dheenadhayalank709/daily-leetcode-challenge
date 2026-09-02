@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1470-shuffle-the-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/2574-left-and-right-sum-differences) |
