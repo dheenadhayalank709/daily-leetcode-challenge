@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
