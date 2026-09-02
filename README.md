@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0342-power-of-four/) | Easy |
+| [0401-binary-watch](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1009-complement-of-base-10-integer) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
+| [0401-binary-watch](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0401-binary-watch/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
