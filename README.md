@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0504-base-7) |
 | [0650-2-keys-keyboard](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
 ## Hash Table
 | Problem Name | Difficulty |
