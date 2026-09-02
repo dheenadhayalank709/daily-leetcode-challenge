@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
