@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0392-is-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0504-base-7) |
