@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
+| [1108-defanging-an-ip-address](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 | Problem Name | Difficulty |
