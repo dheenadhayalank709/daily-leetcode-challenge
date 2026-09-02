@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
+| [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1122-relative-sort-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0709-to-lower-case) |
+| [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1189-maximum-number-of-balloons) |
