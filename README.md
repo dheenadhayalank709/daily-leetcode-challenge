@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0089-gray-code/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0796-rotate-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
