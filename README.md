@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0832-flipping-an-image](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0905-sort-array-by-parity) |
 ## String
 | Problem Name | Difficulty |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
 ## Counting Sort
 | Problem Name | Difficulty |
