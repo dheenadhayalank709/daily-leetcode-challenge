@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0704-binary-search](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0806-number-of-lines-to-write-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0575-distribute-candies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1122-relative-sort-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1189-maximum-number-of-balloons) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0414-third-maximum-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0680-valid-palindrome-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0976-largest-perimeter-triangle) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
