@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1929-concatenation-of-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/1929-concatenation-of-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
