@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0441-arranging-coins/) | Easy |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/dheenadhayalank709/daily-leetcode-challenge/tree/main/0319-bulb-switcher/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
